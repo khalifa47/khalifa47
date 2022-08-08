@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<div display="flex" flex="1" justify-content="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&show_icons=true&theme=radical" />
 </div>
 
-<div display="flex" flex="1" justify-content="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa47&show_icons=true&theme=radical" />
 </div>
