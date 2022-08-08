@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/khalifa47">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&show_icons=true&theme=radical" />
 </a>
+<br>
 <a href="https://github.com/khalifa47">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa47&show_icons=true&theme=radical" />
 </a>
