@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&show_icons=true&theme=radical" />
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47&theme=radical&hide_border=true" />
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa47&show_icons=true&theme=radical" />
