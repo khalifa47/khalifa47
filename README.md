@@ -1,6 +1,26 @@
-### Hi there 👋
+### Hi there, I'm [Khalifa](https://khalifafumo.me) 👋
 
-<h3 align="left">Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/khalifa-fumo-4199781ba/" target="blank"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a></h3>
+#### 📫 How to reach me:
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:khalifafumo5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalifa-fumo-4199781ba/)
+[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://khalifafumo.me)
+
+#### 🔧 Technologies & Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 <!--
 **khalifa47/khalifa47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +39,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&count_private=true&show_icons=true&theme=radical" />
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47&theme=radical&hide_border=true" />
