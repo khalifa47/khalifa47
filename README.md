@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 
 Thanks for stopping by, and let's connect!
 
-
+<!--
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&count_private=true&show_icons=true&theme=radical" />
 </div>
+-->
+
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47&count_private=true&theme=radical&hide_border=true" />
 </div>
