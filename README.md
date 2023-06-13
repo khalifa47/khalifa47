@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 Thanks for stopping by, and let's connect!
 
+<br />
+
 <!--
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khalifa47&count_private=true&show_icons=true&theme=radical" />
