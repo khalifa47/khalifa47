@@ -44,9 +44,8 @@ Thanks for stopping by, and let's connect!
 -->
 
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47&count_private=true&theme=radical&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa47&show_icons=true&theme=radical&count_private=true" /> |
-| --- | --- |
-| Image 1 | Image 2 |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa47&show_icons=true&theme=radical&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47&count_private=true&theme=radical&hide_border=true" /> |
+<!--| --- | --- |
 
 
 <!--
