@@ -44,11 +44,11 @@ Thanks for stopping by, and let's connect!
 -->
 
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
+<div align="center">
+  <div style="display: inline-block; margin-right: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalifa47&count_private=true&theme=radical&hide_border=true" />
   </div>
-  <div style="margin-left: 10px;">
+  <div style="display: inline-block; margin-left: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifa47&show_icons=true&theme=radical&count_private=true" />
   </div>
 </div>
