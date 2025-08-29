@@ -2,7 +2,7 @@
 
 #### 📫 How to reach me:
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:khalifafumo5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalifa-fumo-4199781ba/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/khalifa-fumo)
 [![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://khalifafumo.me)
 
 #### 🔧 Technologies & Tools:
@@ -19,8 +19,9 @@
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![Sklearn](https://img.shields.io/badge/-Sklearn-333333?style=flat&logo=scikitlearn)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
 
 <!--
 **khalifa47/khalifa47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
